@@ -20,7 +20,7 @@
         }
     ☪️ Researcher 💫
     
-    ✨ Golang ✨ Rust ✨ Node.js ✨ Python ✨ Java ✨ Flutter & Dart ✨ Solidity ✨ 
+    ✨ Golang ✨ Rust ✨ Python ✨ Flutter & Dart ✨ Solidity ✨ 
 ```
 <p align="center"><i>"I am not a Great Engineer but Am an Engineer with Great Habits."</i></p>
 <p align="center"><a href = "mailto: yegonk.se@gmail.com"> 📥 Email KY </a></p>
